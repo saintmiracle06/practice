@@ -1,2 +1,2 @@
 # practice
-practice code description for New York City Airbnb dataset
+practice code description for New York City Airbnb
